@@ -1,0 +1,14 @@
+face:
+  apiKey: oFJ_k43XBmCDomxgL0V7Ts0bKgPCRp3f
+  apiSecret: 6zamRq9Nc0W0ayCRR9TvcynNs2xk5YGa
+  url: https://api-cn.faceplusplus.com
+jdbc:
+  url: jdbc:mysql://120.27.148.199/cloud
+  datasource:
+    classname: com.mysql.jdbc.jdbc2.optional.MysqlDataSource
+  username: root
+  password: root
+  pool:
+    max: 50
+server:
+  id: 1
